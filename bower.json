@@ -1,0 +1,16 @@
+{
+  "name": "browsekit",
+  "version": "0.0.1",
+  "homepage": "http://browsekit.com",
+  "description": "BrowseKit Web Client",
+  "main": "browsekit.js",
+  "keywords": [
+    "BrowseKit",
+    "data",
+    "json",
+    "bucket",
+    "item",
+    "CSS",
+    "grammar"
+  ]
+}
